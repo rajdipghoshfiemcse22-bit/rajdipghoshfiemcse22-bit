@@ -20,7 +20,7 @@ I enjoy working with modern web technologies and continuously improving my probl
 - Contribute to meaningful open-source work  
 
 ## Connect With Me
-- LinkedIn: [your-link]
-- Email: [your-email]
+- LinkedIn: https://www.linkedin.com/in/rajdip-ghosh-70154a282
+- Email: rajdip.ghosh.fiem.cse22@teamfuture.in
 
 ---
